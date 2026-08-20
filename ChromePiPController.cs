@@ -9,7 +9,7 @@ using Microsoft.Win32;
 
 [assembly: System.Reflection.AssemblyTitle("Chrome PiP Controller")]
 [assembly: System.Reflection.AssemblyDescription("Controls Chrome Picture-in-Picture windows")]
-[assembly: System.Reflection.AssemblyCompany("OrkaLxrd and ChaosPrometheus")]
+[assembly: System.Reflection.AssemblyCompany("Orka Lxrd and ChaosPrometheus")]
 [assembly: System.Reflection.AssemblyProduct("Chrome PiP Controller")]
 [assembly: System.Reflection.AssemblyVersion("2.1.0.0")]
 [assembly: System.Reflection.AssemblyFileVersion("2.1.0.0")]
